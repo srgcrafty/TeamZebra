@@ -1,6 +1,6 @@
 
 body {
-    background-image: url(http://localhost:8080/Images/ZebraLookingAtCamera.jpg);
+    background-image: url(http://localhost:8080/Images/marty.jpg);
     height: 100%;
     width: 100%;
     -webkit-background-size: cover;
@@ -12,7 +12,7 @@ body {
 
 
 .middle-panel {
-    margin-left: 33vw;
+    margin-left: 39em;
     width: 33vw;
     padding-bottom: 1em;
 }

@@ -1,12 +1,15 @@
-.background-container {
+
+body {
     background-image: url(http://localhost:8080/Images/ZebraLookingAtCamera.jpg);
-    height: 100vh;
-    width: 100vw;
+    height: 100%;
+    width: 100%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
+
+
 
 .middle-panel {
     margin-left: 33vw;
